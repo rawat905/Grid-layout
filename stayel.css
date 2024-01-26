@@ -1,0 +1,10 @@
+#papa{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.box img{
+    width: 95%;
+    height: 60vh;
+    object-fit: cover;
+}
